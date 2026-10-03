@@ -2,3 +2,7 @@
 2026-10-03 15:15:03,392 | INFO | Extracción completada: 47 registros
 2026-10-03 15:15:03,438 | INFO | Transformación completada: 45 registros
 2026-10-03 15:15:03,484 | INFO | Carga completada en C:\Users\USUARIO\Downloads\Proyecto_Etl_Miguel-AngelTorresy_Juan-Andres-Serna\Proyecto_ETL_PlayStation\data\processed\playstation_etl.db
+2026-10-03 15:48:24,067 | INFO | Inicio del pipeline ETL
+2026-10-03 15:48:24,083 | INFO | Extracción completada: 47 registros
+2026-10-03 15:48:24,107 | INFO | Transformación completada: 45 registros
+2026-10-03 15:48:24,144 | INFO | Carga completada en C:\Users\USUARIO\Downloads\Proyecto_Etl_Miguel-AngelTorresy_Juan-Andres-Serna\Proyecto_ETL_PlayStation\data\processed\playstation_etl.db
